@@ -747,6 +747,11 @@ font-size: 18px;
 
 
 @media (min-width: 768px) and (max-width: 991px){
+
+    .btn1, .btn2{
+        margin-left: 0em;
+    }
+
 .section1 .curcle{
     margin-left: -6em;
 }
@@ -898,6 +903,10 @@ display: block;
 }
 
 @media (min-width: 576px) and (max-width:767px) {
+    .btn1, .btn2{
+        margin-left: 0em;
+    }
+
     .section1 .curcle img{
     max-width: 450px;
     height: 450px;
@@ -1032,6 +1041,9 @@ display: block;
 }
 
 @media (min-width: 280px) and (max-width:575px) {
+    .btn1, .btn2{
+        margin-left: 0em;
+    }
     .section1 .curcle{
         margin-left: -6em;
     }
